@@ -30,4 +30,4 @@ Via command line:
 
 `$ git clone https://github.com/puglisac/coursera-c-sharp-ex10.git`  
 
-open MoviesApp.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
+add folder to [Unity](https://unity.com/) with [Unity Hub](https://unity3d.com/get-unity/download).
