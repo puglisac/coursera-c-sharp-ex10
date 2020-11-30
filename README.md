@@ -28,6 +28,6 @@ Download and extract the zip file to a directory of your choice.
 
 Via command line:
 
-`$ git clone https://github.com/puglisac/coursera-c-sharp-ex7.git`  
+`$ git clone https://github.com/puglisac/coursera-c-sharp-ex10.git`  
 
 open MoviesApp.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
